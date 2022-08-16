@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre":"Extra papas chicas",
+        "value":"Papas chicas"
+    },
+    {
+        "id": 2,
+        "nombre":"Extra papas grandes",
+        "value":"Papas grandes"
+    },
+    {
+        "id": 3,
+        "nombre":"Agregá cheddar y bacon a tus papas",
+        "value":"Papas Chedd/bacon"
+    },
+    {
+        "id": 4,
+        "nombre":"Extra carne + cheddar ",
+        "value":"Extra carne"
+    },
+    {
+        "id": 5,
+        "nombre":"Extra cheddar",
+        "value":"Extra cheddar"
+    },
+    {
+        "id": 6,
+        "nombre":"Extra bacon",
+        "value":"Extra bacon"
+    }
+
+]

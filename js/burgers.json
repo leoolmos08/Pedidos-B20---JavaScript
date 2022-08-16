@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "nombre": "Hamburguesa Simple",
+      "desc" : "Pan de papa, carne de 100gr, queso cheddar o tybo, toppings a elección y papas fritas",
+      "img" : "../assets/img/doble.jpeg",
+      "value" : "Hamb Simple"
+    },
+    {
+      "id": 2,
+      "nombre": "Hamburguesa Doble",
+      "desc" : "Pan de papa, doble carne de 100gr, queso cheddar o tybo, toppings a elección y papas fritas",
+      "img" : "../assets/img/doble.jpeg",
+      "value" : "Hamb Doble"
+    },
+    {
+      "id": 3,
+      "nombre": "Hamburguesa Triple",
+      "desc" : "Pan de papa, triple carne de 100gr, queso cheddar o tybo, toppings a elección y papas fritas",
+      "img" : "../assets/img/triple.jpeg",
+      "value" : "Hamb Triple"
+    },
+    {
+      "id": 4,
+      "nombre": "Hamburguesa Cuádruple",
+      "desc" : "Pan de papa, cuádruple carne de 100gr, queso cheddar o tybo, toppings a elección y papas fritas",
+      "img" : "../assets/img/triple.jpeg",
+      "value" : "Hamb Cuadruple"
+    },
+    {
+      "id": 5,
+      "nombre": "Hamburguesa Especial",
+      "desc" : "Hamburguesa especial del mes",
+      "img" : "../assets/img/especial.jpeg",
+      "value" : "Hamb Especial"
+    },
+    {
+        "id": 6,
+        "nombre": "Hamburguesa Promo PedidosYa",
+        "desc" : "Hamburguesa exclusica delivery",
+        "img" : "../assets/img/especial.jpeg",
+        "value" : "Hamb PedidosYa"
+      }
+  ]

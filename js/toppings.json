@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lechuga"
+  },
+  {
+    "id": 2,
+    "nombre": "Tomate"
+  },
+  {
+    "id": 3,
+    "nombre": "Ceb Caramelizada"
+  },
+  {
+    "id": 4,
+    "nombre": "Ceb Morada"
+  },
+  {
+    "id": 5,
+    "nombre": "Bacon"
+  },
+  {
+    "id": 6,
+    "nombre": "Pepinos Agridulces"
+  }
+]

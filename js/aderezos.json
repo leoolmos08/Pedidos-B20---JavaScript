@@ -1,0 +1,26 @@
+[
+    {
+        "id": 7,
+        "nombre": "Mayo Burger 2.0"
+      },
+      {
+        "id": 8,
+        "nombre": "Mostaza"
+      },
+      {
+        "id": 9,
+        "nombre": "Ketchup"
+      },
+      {
+        "id": 10,
+        "nombre": "Salsa Burger 2.0"
+      },
+      {
+        "id": 11,
+        "nombre": "Salsa Barbacoa"
+      },
+      {
+        "id": 12,
+        "nombre": "Mayo Picante"
+      }
+]

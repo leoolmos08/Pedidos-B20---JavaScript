@@ -1,0 +1,12 @@
+.flex{display: flex;}
+.flex-evenly{
+    display: flex;
+    justify-content: space-evenly;
+}
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+#divPadre{
+    overflow-x: hidden;
+}
